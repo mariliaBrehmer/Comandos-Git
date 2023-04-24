@@ -8,8 +8,9 @@
 #### git push -u origin {nome-da-branch}: sobe as alterações pro github 
 #### git pull origin {nome-da-branch}: pega as alterações do github pro pc 
 #### git log: lista o histórico de commits 
+#### git checkout {nome-da-branch}: troca entre branch
 
-## como funciona a  branch
+## como criar e deletar uma  branch
 
 #### git checkout -b {nome-da-branch}: criando a branch 
 #### git branch -D {nome-da-branch}: remove a branch 
